@@ -1,6 +1,8 @@
 # -Demo 感谢siki学院、B站UP主包括但不限于“傅老師MrFu”、“M_Studio”、“BeaverJoe”、“Unity官方”的视频在我学习过程为我提供宝贵的思路。
 菜单界面：
       space--选择选项
+      
+      
  游戏界面 ：
         w a s d 行走  
         shift--冲刺   
