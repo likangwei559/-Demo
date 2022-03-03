@@ -1,4 +1,4 @@
-# -Demo 需创建一个ARPG_Data文件夹，将ARPG.exe  UnityPlayer.dll MonoBleddingEdge以外的文件都放进去
+# -Demo 需创建一个ARPG_Data文件夹，将ARPG.exe  UnityPlayer.dll MonoBleddingEdge以外的文件都放进去(不要忘了releases中的文件）
 菜单界面：
       space--选择选项
       
